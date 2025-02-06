@@ -1,0 +1,13 @@
+ body{
+  background-color: white;
+ }
+
+.detail{
+ background-color: rgb(71, 124, 170);
+ width: 100vw; 
+text-align: center;
+} 
+
+.email{
+  color: black;
+}
